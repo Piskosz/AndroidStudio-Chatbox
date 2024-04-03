@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shoot</string>
+    <string-array name="Model_name">
+
+        <item>  Ala    </item>
+
+
+    </string-array>
+    <string-array name="letter">
+
+        <item> beta </item>
+
+    </string-array>
+
+    <string-array name="letter_one">
+
+
+        <item> a </item>
+
+    </string-array>
+</resources>
